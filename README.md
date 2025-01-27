@@ -176,8 +176,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ![Pin Task](./screenshots/pin-task.png)
 *Pin important tasks for quick access*
 
-![Delete Task](./screenshots/delete-task.png)
-*Task deletion with confirmation*
-
 ![Task Deleted Successfully](./screenshots/task-deleted-successfully.png)
 *Success notification after task deletion*
