@@ -149,7 +149,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - React.js community for the excellent frontend framework
 - Node.js community for the backend runtime
 
-
 ## 📸 Screenshots
 
 ### Authentication
